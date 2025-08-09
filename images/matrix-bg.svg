@@ -1,0 +1,43 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="matrix" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#000000"/>
+      <text x="10" y="15" text-anchor="middle" fill="#00FF00" font-family="monospace" font-size="12" opacity="0.8">1</text>
+    </pattern>
+    <pattern id="matrix2" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse">
+      <rect width="25" height="25" fill="transparent"/>
+      <text x="12" y="18" text-anchor="middle" fill="#00AA00" font-family="monospace" font-size="10" opacity="0.6">0</text>
+    </pattern>
+    <linearGradient id="fadeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#001100;stop-opacity:0.7" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 基础黑色背景 -->
+  <rect width="1920" height="1080" fill="#000000"/>
+  
+  <!-- 代码矩阵效果 -->
+  <rect width="1920" height="1080" fill="url(#matrix)" opacity="0.3"/>
+  <rect width="1920" height="1080" fill="url(#matrix2)" opacity="0.2"/>
+  
+  <!-- 渐变覆盖层 -->
+  <rect width="1920" height="1080" fill="url(#fadeGrad)"/>
+  
+  <!-- 中央高光区域 -->
+  <circle cx="960" cy="540" r="400" fill="none" stroke="#00FF00" stroke-width="1" opacity="0.1"/>
+  <circle cx="960" cy="540" r="300" fill="none" stroke="#00FF00" stroke-width="1" opacity="0.2"/>
+  
+  <!-- 装饰线条 -->
+  <line x1="0" y1="200" x2="1920" y2="200" stroke="#00FF00" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="880" x2="1920" y2="880" stroke="#00FF00" stroke-width="1" opacity="0.3"/>
+  
+  <!-- 代码文本装饰 -->
+  <text x="100" y="150" fill="#00AA00" font-family="monospace" font-size="14" opacity="0.4">
+    &lt;?php echo "Welcome to the Matrix"; ?&gt;
+  </text>
+  <text x="1200" y="950" fill="#00AA00" font-family="monospace" font-size="14" opacity="0.4">
+    console.log("Hello, Programmer!");
+  </text>
+</svg>

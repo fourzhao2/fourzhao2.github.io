@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>fourzhao2&#39;s Tech Blog</title>
+  <icon>https://fourzhao2.github.io/favicon.ico</icon>
+  <subtitle>专注技术分享的开发者</subtitle>
+  <link href="https://fourzhao2.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://fourzhao2.github.io/"/>
+  <updated>2025-08-09T15:08:33.415Z</updated>
+  <id>https://fourzhao2.github.io/</id>
+  
+  <author>
+    <name>fourzhao2</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎来到我的技术世界！🚀</title>
+    <link href="https://fourzhao2.github.io/2025/08/09/welcome/"/>
+    <id>https://fourzhao2.github.io/2025/08/09/welcome/</id>
+    <published>2025-08-09T15:10:00.000Z</published>
+    <updated>2025-08-09T15:08:33.415Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="👋-Hello-世界！"><a href="#👋-Hello-世界！" class="headerlink" title="👋 Hello, 世界！"></a>👋 Hello, 世界！</h2><p>欢迎来到我的技术博客！我是 <strong>fourzhao2</strong>，一名热爱代码、追求技术极致的开发者。这里不仅是我的技术成长记录，更是与志同道合的朋友们分享知识、交流思想的地方。</p><h2 id="🌟-关于这个博客"><a href="#🌟-关于这个博客" class="headerlink" title="🌟 关于这个博客"></a>🌟 关于这个博客</h2><p>在这个数字化时代，技术日新月异，学习永无止境。我创建这个博客的初衷是：</p><ul><li><strong>📚 知识分享</strong>：将学习到的技术知识进行总结和分享</li><li><strong>💡 思维碰撞</strong>：记录解决问题的思路和方法</li><li><strong>🔥 持续成长</strong>：通过写作来加深理解，温故知新</li><li><strong>🤝 技术交流</strong>：与更多技术朋友建立联系，共同进步</li></ul><h2 id="🎯-博客内容"><a href="#🎯-博客内容" class="headerlink" title="🎯 博客内容"></a>🎯 博客内容</h2><h3 id="📖-论文阅读"><a href="#📖-论文阅读" class="headerlink" title="📖 论文阅读"></a>📖 论文阅读</h3><ul><li>最新AI&#x2F;CS领域论文解读</li><li>前沿技术趋势分析</li><li>学术思考与实践结合</li></ul><h3 id="💻-开源项目"><a href="#💻-开源项目" class="headerlink" title="💻 开源项目"></a>💻 开源项目</h3><ul><li>GitHub优质项目深度解析</li><li>源码阅读心得体会</li><li>技术架构设计思路</li></ul><h3 id="🐛-Bug复盘"><a href="#🐛-Bug复盘" class="headerlink" title="🐛 Bug复盘"></a>🐛 Bug复盘</h3><ul><li>生产环境问题排查记录</li><li>踩坑经验与解决方案</li><li>系统性问题分析方法</li></ul><h3 id="💡-知识讲解"><a href="#💡-知识讲解" class="headerlink" title="💡 知识讲解"></a>💡 知识讲解</h3><ul><li>后端技术核心原理</li><li>AI算法与应用实践</li><li>面试经验与技巧分享</li></ul><h3 id="💭-个人杂谈"><a href="#💭-个人杂谈" class="headerlink" title="💭 个人杂谈"></a>💭 个人杂谈</h3><ul><li>技术职业发展思考</li><li>学习方法与心得</li><li>行业观察与未来展望</li></ul><h2 id="🚀-技术栈"><a href="#🚀-技术栈" class="headerlink" title="🚀 技术栈"></a>🚀 技术栈</h2><p>我主要关注以下技术领域：</p><p><strong>后端开发</strong></p><ul><li>Java, Spring Boot, Spring Cloud</li><li>Python, Django, FastAPI</li><li>数据库设计与优化</li><li>微服务架构</li></ul><p><strong>AI &amp; 机器学习</strong></p><ul><li>深度学习框架 (PyTorch, TensorFlow)</li><li>自然语言处理 (NLP)</li><li>计算机视觉 (CV)</li><li>大模型应用开发</li></ul><p><strong>系统架构</strong></p><ul><li>分布式系统设计</li><li>高并发系统优化</li><li>DevOps &amp; 容器化</li><li>云原生技术</li></ul><h2 id="💭-我的座右铭"><a href="#💭-我的座右铭" class="headerlink" title="💭 我的座右铭"></a>💭 我的座右铭</h2><blockquote><p><strong>“Stay foolish, stay hungry”</strong></p><p>保持初学者的心态，永远对知识充满渴望</p></blockquote><p>这句话深深影响着我的技术成长之路。在快速变化的技术世界中，我们要：</p><ul><li><strong>保持谦逊</strong> - 承认自己的不足，虚心学习</li><li><strong>保持好奇</strong> - 对新技术保持敏感和兴趣</li><li><strong>保持思考</strong> - 不只是会用，更要理解原理</li><li><strong>保持分享</strong> - 知识因分享而增值</li></ul><h2 id="🎨-博客特色"><a href="#🎨-博客特色" class="headerlink" title="🎨 博客特色"></a>🎨 博客特色</h2><p>这个博客采用了程序员专属的<strong>暗色科技风</strong>设计：</p><ul><li>🌌 <strong>暗色主题</strong>：护眼的同时营造专业的代码环境</li><li>✨ <strong>动态效果</strong>：炫酷的背景动画和交互效果</li><li>🎯 <strong>高亮显示</strong>：优化的代码高亮和语法着色</li><li>📱 <strong>响应式设计</strong>：完美适配各种设备</li></ul><h2 id="📬-联系我"><a href="#📬-联系我" class="headerlink" title="📬 联系我"></a>📬 联系我</h2><p>欢迎与我交流技术问题或分享您的想法：</p><ul><li><strong>GitHub</strong>: <a href="https://github.com/fourzhao2">fourzhao2</a></li><li><strong>邮箱</strong>: 技术交流请通过GitHub联系</li><li><strong>博客评论</strong>: 每篇文章下方都可以留言讨论</li></ul><h2 id="🎯-写在最后"><a href="#🎯-写在最后" class="headerlink" title="🎯 写在最后"></a>🎯 写在最后</h2><p>技术的道路虽然充满挑战，但每一次突破都让我们离目标更近一步。我希望这个博客能成为我们共同学习、成长的平台。</p><p>无论你是刚入门的新手，还是经验丰富的老手，都欢迎在这里：</p><ul><li>🤔 <strong>提出问题</strong> - 没有愚蠢的问题，只有不敢问的勇气</li><li>💬 <strong>分享经验</strong> - 你的经验可能正好解决别人的困惑  </li><li>🔥 <strong>讨论技术</strong> - 思维的碰撞才能产生更好的解决方案</li><li>🌟 <strong>共同进步</strong> - 一个人走得快，一群人走得远</li></ul><hr><blockquote><p>🚀 <strong>准备好了吗？</strong></p><p>让我们一起在代码的世界中探索，在技术的海洋中遨游！</p><p><strong>Welcome to my tech world! Let’s code, learn, and grow together!</strong> ✨</p></blockquote><p><img src="https://via.placeholder.com/800x400/0f3460/00ffff?text=Welcome+to+My+Tech+World+%F0%9F%9A%80" alt="程序员的世界"></p><div style="text-align: center; margin: 30px 0; padding: 20px; background: linear-gradient(45deg, rgba(15, 52, 96, 0.3), rgba(83, 52, 131, 0.3)); border-radius: 12px; border: 1px solid rgba(0, 255, 255, 0.2);">  <h3 style="color: #00ffff; margin-bottom: 15px;">🎉 博客正式启动！</h3>  <p style="color: #e5e7eb; margin: 0;">    感谢您的访问，期待与您在技术的道路上相遇！<br/>    如果觉得内容有价值，欢迎 <strong>⭐ Star</strong> 支持一下！  </p></div>]]></content>
+    
+    
+    <summary type="html">欢迎来到fourzhao2的技术博客，这里是代码与思维的碰撞地，让我们一起探索技术的无限可能！</summary>
+    
+    
+    
+    <category term="个人杂谈" scheme="https://fourzhao2.github.io/categories/%E4%B8%AA%E4%BA%BA%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="欢迎" scheme="https://fourzhao2.github.io/tags/%E6%AC%A2%E8%BF%8E/"/>
+    
+    <category term="博客介绍" scheme="https://fourzhao2.github.io/tags/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/"/>
+    
+    <category term="个人思考" scheme="https://fourzhao2.github.io/tags/%E4%B8%AA%E4%BA%BA%E6%80%9D%E8%80%83/"/>
+    
+  </entry>
+  
+</feed>
