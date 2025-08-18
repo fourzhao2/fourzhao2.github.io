@@ -1,8 +1,11 @@
-// 简化版主题切换功能 - 确保兼容性
+// 简化版主题切换功能 - 已禁用
+// 用户不需要主题切换功能，仅保留暗色模式
+
+/*
 document.addEventListener('DOMContentLoaded', function() {
     console.log('主题切换脚本加载中...');
     
-    // 创建主题切换按钮
+    // 创建主题切换按钮 - 已禁用
     const button = document.createElement('button');
     button.className = 'theme-toggle';
     button.innerHTML = '☀️';
@@ -90,4 +93,13 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     console.log('主题切换功能初始化完成');
+});
+*/
+
+// 强制设置暗色主题
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('强制使用暗色主题');
+    document.body.classList.add('dark-theme');
+    document.body.classList.remove('light-theme');
+    localStorage.setItem('blog-theme', 'dark');
 });
